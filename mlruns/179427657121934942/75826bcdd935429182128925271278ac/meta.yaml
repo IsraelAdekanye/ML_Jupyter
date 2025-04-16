@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/israel/Documents/python/Native/mlruns/179427657121934942/75826bcdd935429182128925271278ac/artifacts
+end_time: 1744774678264
+entry_point_name: ''
+experiment_id: '179427657121934942'
+lifecycle_stage: active
+run_id: 75826bcdd935429182128925271278ac
+run_name: languid-colt-890
+run_uuid: 75826bcdd935429182128925271278ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744774678238
+status: 4
+tags: []
+user_id: israel

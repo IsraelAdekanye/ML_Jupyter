@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/israel/Documents/python/Native/mlruns/179427657121934942/bd70d6efdc2047fc976f5472e99bff7d/artifacts
+end_time: 1744774746677
+entry_point_name: ''
+experiment_id: '179427657121934942'
+lifecycle_stage: active
+run_id: bd70d6efdc2047fc976f5472e99bff7d
+run_name: sedate-dog-469
+run_uuid: bd70d6efdc2047fc976f5472e99bff7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744774691633
+status: 3
+tags: []
+user_id: israel

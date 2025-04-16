@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/israel/Documents/python/Native/mlruns/179427657121934942/2606bca45bec40c9a5e1dc5cbaa7b67f/artifacts
+end_time: 1744774886719
+entry_point_name: ''
+experiment_id: '179427657121934942'
+lifecycle_stage: active
+run_id: 2606bca45bec40c9a5e1dc5cbaa7b67f
+run_name: New Run
+run_uuid: 2606bca45bec40c9a5e1dc5cbaa7b67f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744774870327
+status: 3
+tags: []
+user_id: israel

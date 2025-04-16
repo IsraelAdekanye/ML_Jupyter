@@ -1,0 +1,21 @@
+artifact_path: Linear Regression Model
+flavors:
+  python_function:
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.tensorflow
+    python_version: 3.12.7
+  tensorflow:
+    code: null
+    data: data
+    keras_version: 2.16.2
+    model_type: keras
+    save_format: tf
+mlflow_version: 2.21.3
+model_size_bytes: 14745
+model_uuid: b9cd646d09344b989f8fc730830ae6d0
+prompts: null
+run_id: 2606bca45bec40c9a5e1dc5cbaa7b67f
+utc_time_created: '2025-04-16 03:41:10.376587'
